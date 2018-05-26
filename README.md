@@ -12,6 +12,5 @@
 
 
 技术栈:
-前端: React.
-后端: 暂定node
 
+React,node(暂定),docker
